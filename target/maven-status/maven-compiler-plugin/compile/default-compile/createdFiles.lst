@@ -1,0 +1,9 @@
+com\example\ubicaciones\service\UbicacionService.class
+com\example\ubicaciones\dto\DtoUbi.class
+com\example\ubicaciones\controller\UbicacionController.class
+com\example\ubicaciones\dto\DtoResponseUbi.class
+com\example\ubicaciones\repository\UbicacionRepository.class
+com\example\ubicaciones\MsUbicacionesApplication.class
+com\example\ubicaciones\modelo\Ubicacion.class
+com\example\ubicaciones\exeption\UbiException.class
+com\example\ubicaciones\config\DataInitializer.class
